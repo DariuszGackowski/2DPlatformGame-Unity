@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfGameSaveSerialization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GameSaveSerialization>
+    <OrangeGems>0</OrangeGems>
+    <BlueGems>0</BlueGems>
+    <PurpleGems>0</PurpleGems>
+    <UnlockedLevel>1</UnlockedLevel>
+    <Life>0</Life>
+  </GameSaveSerialization>
+</ArrayOfGameSaveSerialization>

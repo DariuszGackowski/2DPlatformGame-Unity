@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1768429086505492763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1768429086505492757}
+  - component: {fileID: 1768429086505492756}
+  - component: {fileID: 1768429086505492758}
+  - component: {fileID: 1768429086505492759}
+  m_Layer: 0
+  m_Name: ScoreManager
+  m_TagString: ScoreManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1768429086505492757
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768429086505492763}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.7707567, y: 5.799487, z: 8.548952}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1768429086505492756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768429086505492763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0d2a8f8c9c9eb4bad2744769d2f99b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathScreenSelection: {fileID: 0}
+  textMeshProUGUIGemOrange: {fileID: 0}
+  textMeshProUGUIGemBlue: {fileID: 0}
+  textMeshProUGUIGemPurple: {fileID: 0}
+  cherry1: {fileID: 0}
+  cherry2: {fileID: 0}
+  cherry3: {fileID: 0}
+  cherry4: {fileID: 0}
+  cherry5: {fileID: 0}
+  deathScreenObject: {fileID: 0}
+  player: {fileID: 0}
+  areaOfPoints: {fileID: 0}
+  minimap: {fileID: 0}
+--- !u!114 &1768429086505492758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768429086505492763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e9226db17d1e246bb92e9b7c958712, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listOfAllLifeTerritories: 
+  bandOfOrangeGemsPrivateList: 
+  onlyBlueGemsAreTheBestPrivateList: 
+  ourPartyIsTheMostPopularVoteForPurplePrivateList: 
+  listOfAllGems: []
+  listOfBounceGems: []
+  listOfOrdinaryGems: []
+  orange: {r: 1, g: 0.6000497, b: 0.15566039, a: 1}
+  blue: {r: 0.3443396, g: 0.5902122, b: 1, a: 1}
+  purple: {r: 0.7822501, g: 0.36779106, b: 0.8962264, a: 1}
+--- !u!114 &1768429086505492759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768429086505492763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd391fce86535a847a9557d28960ebff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  restartScreen: {fileID: 0}
+  deathScreen: {fileID: 0}
+  mainMenuPauseScreen: {fileID: 0}
+  optionsMenuScreen: {fileID: 0}
+  doorInScene: {fileID: 0}
