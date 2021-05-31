@@ -37,8 +37,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 8
-    y: 51
+    x: 21
+    y: 55
     width: 1904
     height: 1021
   m_ShowMode: 4
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 125}
   m_MaxSize: {x: 4000, y: 4025}
   vertical: 0
-  controlID: 38
+  controlID: 123
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 20004, y: 14048}
   vertical: 1
-  controlID: 145
+  controlID: 18
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,7 +238,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 20004, y: 14048}
   vertical: 1
-  controlID: 146
+  controlID: 19
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,7 +264,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 147
+  controlID: 20
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -343,7 +343,7 @@ MonoBehaviour:
   m_MinSize: {x: 464, y: 274}
   m_MaxSize: {x: 20004, y: 10024}
   vertical: 0
-  controlID: 161
+  controlID: 147
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -420,8 +420,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1035
-    y: 777
+    x: 1048
+    y: 781
     width: 875
     height: 255
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -437,19 +437,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Darek Gackowski\Documents\GitHub\PlatformGame\PlatformGameDemo
+  m_LastProjectPath: E:\Darek Gackowski\Documents\GitHub\2DPlatformGame-Unity\PlatformGameDemo
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: be270000
-    m_LastClickedID: 10174
+    m_SelectedIDs: 582a0000
+    m_LastClickedID: 10840
     m_ExpandedIDs: 00000000be270000082800002a280000ae280000fe2800004229000074290000ae290000462a0000582a0000142b00005a2b0000782b0000ce2b0000f62b0000782d0000942d0000fa2d00000e2e0000362e0000282f0000382f0000d4320000d632000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -505,7 +505,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -554,8 +554,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1401
-    y: 81
+    x: 1414
+    y: 85
     width: 509
     height: 676
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -704,17 +704,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 81
+    x: 21
+    y: 85
     width: 370
     height: 676
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3c250000
-      m_LastClickedID: 0
-      m_ExpandedIDs: d6fbffff
+      m_SelectedIDs: 2e3b0000
+      m_LastClickedID: 15150
+      m_ExpandedIDs: aaf7ffffe2f7ffffe6f8ffffd6fbffffae3b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -758,8 +758,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 380
-    y: 81
+    x: 393
+    y: 85
     width: 1017
     height: 676
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -769,9 +769,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 36.898163, y: 0.82847947, z: -0.8774134}
+    m_Target: {x: 11.959924, y: -2.7659552, z: -0.17805822}
     speed: 2
-    m_Value: {x: 36.898163, y: 0.82847947, z: -0.8774134}
+    m_Value: {x: 11.959924, y: -2.7659552, z: -0.17805822}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -803,9 +803,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 109.66103
+    m_Target: 39.741673
     speed: 2
-    m_Value: 109.66103
+    m_Value: 39.741673
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1200,8 +1200,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 777
+    x: 21
+    y: 781
     width: 1025
     height: 255
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -1217,19 +1217,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Important
+    - Assets/Scripts/MenuAndPanels/Menu/GemMarket
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets/Scripts/Important
+  - Assets/Scripts/MenuAndPanels/Menu/GemMarket
   m_LastFoldersGridSize: 61
-  m_LastProjectPath: E:\Darek Gackowski\Documents\GitHub\PlatformGame\PlatformGameDemo
+  m_LastProjectPath: E:\Darek Gackowski\Documents\GitHub\2DPlatformGame-Unity\PlatformGameDemo
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 82}
-    m_SelectedIDs: 362e0000
-    m_LastClickedID: 11830
+    scrollPos: {x: 0, y: 194}
+    m_SelectedIDs: 6a280000
+    m_LastClickedID: 10346
     m_ExpandedIDs: 00000000be270000082800002a280000ae280000fe2800004229000074290000ae290000462a0000582a0000142b00005a2b0000782b0000ce2b0000f62b0000782d0000942d0000fa2d00000e2e0000362e0000282f0000382f0000d4320000d632000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0

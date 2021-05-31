@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/LoadGameScene.unity
+- path: Assets/Scenes/GemMarket.unity
   isLoaded: 1
   isActive: 1
