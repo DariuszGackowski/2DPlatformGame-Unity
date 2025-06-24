@@ -1,19 +1,16 @@
 🎮 2DPlatformGame-Unity
+This is my first demo 2D platformer game created a few years ago in Unity. The project was developed as a hobby experiment focused on 2D platformer mechanics, animation, and player physics.
 
-To moja pierwsza platformowa gra demo stworzona kilka lat temu w Unity. Projekt był tworzony hobbystycznie jako eksperyment z mechaniką platformówek 2D, animacją oraz fizyką gracza.
+🕹️ Features (demo)
+Left/right character movement and jumping
 
-🕹️ Funkcje (demo)
+Collision with obstacles
 
-Ruch postaci w lewo/prawo i podskoki
+Basic gravity system
 
-Kolizje z przeszkodami
+Several levels with obstacles and enemies
 
-Prosty system grawitacji
-
-kilka poziomów z przeszkodami i wrogami
-
-⚙️ Technologie
-
+⚙️ Technologies
 Unity
 
 C#
